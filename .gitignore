@@ -71,4 +71,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 *.camrec
-/GSG-course/20231124_GSG_Client
+/20231124_GSG_Client/*
