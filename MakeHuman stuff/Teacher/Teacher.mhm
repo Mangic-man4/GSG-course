@@ -1,0 +1,61 @@
+# Written by MakeHuman 1.2.1 alpha
+version v1.2.1
+name Teacher
+camera 18.5 5.0 -0.835953392889356 0.9336721336613915 -0.17560854509543283 1.8125
+modifier head/head-age-decr|incr 0.402000
+modifier head/head-fat-decr|incr 0.320000
+modifier head/head-oval 0.257000
+modifier head/head-round 0.139000
+modifier torso/torso-vshape-decr|incr 0.292000
+modifier torso/torso-muscle-dorsi-decr|incr 0.194000
+modifier torso/torso-muscle-pectoral-decr|incr 0.292000
+modifier stomach/stomach-tone-decr|incr -0.306000
+modifier armslegs/r-lowerarm-scale-depth-decr|incr 0.264000
+modifier armslegs/r-lowerarm-scale-vert-decr|incr 0.598000
+modifier armslegs/r-lowerarm-fat-decr|incr 0.598000
+modifier armslegs/r-upperarm-scale-depth-decr|incr 0.514000
+modifier armslegs/r-upperarm-scale-vert-decr|incr 0.514000
+modifier armslegs/r-upperarm-fat-decr|incr 0.598000
+modifier armslegs/l-lowerarm-scale-depth-decr|incr 0.500000
+modifier armslegs/l-lowerarm-scale-vert-decr|incr 0.598000
+modifier armslegs/l-lowerarm-fat-decr|incr 0.570000
+modifier armslegs/l-upperarm-scale-depth-decr|incr 0.416000
+modifier armslegs/l-upperarm-scale-vert-decr|incr 0.402000
+modifier armslegs/l-upperarm-fat-decr|incr 0.416000
+modifier armslegs/r-lowerleg-fat-decr|incr 0.722000
+modifier armslegs/r-lowerleg-muscle-decr|incr 0.514000
+modifier armslegs/r-upperleg-fat-decr|incr 0.542000
+modifier armslegs/l-lowerleg-fat-decr|incr 0.444000
+modifier armslegs/l-lowerleg-muscle-decr|incr 0.472000
+modifier armslegs/l-upperleg-fat-decr|incr 0.570000
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails/Age 0.618000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 0.389000
+modifier macrodetails-universal/Weight 0.764000
+modifier macrodetails-height/Height 0.639000
+modifier macrodetails-proportions/BodyProportions 0.653000
+modifier bodyshapes/bodyshapes-elvs-man-adrenal 0.250000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy male_generic df01ef58-b37f-479e-9f97-b4c1b9626aa8
+hair short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+skeleton Unity_Rig/unity.mhskel
+eyebrows eyebrow012 1c16325c-7831-4166-831a-05c5b609c219
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes male_casualsuit01 79ced554-1d8a-4c14-a6a8-e1de90b09c32
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+skinMaterial skins/old_caucasian_male/old_caucasian_male.mhmat
+material short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8 short04.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brownlight.mhmat
+material eyebrow012 1c16325c-7831-4166-831a-05c5b609c219 eyebrow012.mhmat
+material Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2 eyelashes01.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False
